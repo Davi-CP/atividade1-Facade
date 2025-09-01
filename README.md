@@ -1,0 +1,1 @@
+O projeto propõe uma solução para simplficar o processo de reserva de viagens online, onde os clientes podem reservar voos, hotéis e alugar carros para suas viagens, utilizando o Design Pattern Façade. 
