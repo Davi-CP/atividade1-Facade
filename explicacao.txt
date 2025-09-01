@@ -1,0 +1,1 @@
+O Façade atua como um agente de viagens que torna a experiência do cliente muito simples e eficiente. O cliente não precisa se preocupar com a lógica possivelmente complexa da implementação por trás, basta que use a fachada que resolve seus problemas.
